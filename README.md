@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-03/chap7labs/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 [![reward](https://make.fun/badge/bring-the-humans-03/chap7labs/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 
-Original 9:16 kinetic vertical TikTok ad produced in-session for `make.fun`, pairing dark-mode motion graphics rendered frame-by-frame with natural US voiceover, procedural 128 BPM music and SFX, the official first-frame brand badge, and the transparent referral end card.
+Original 18s vertical 9:16 TikTok ad produced in-session for `make.fun`, pairing dark-mode live coding & auto-debug motion graphics with natural English creator voiceover, a 5-section 126 BPM dynamic synth score with plot-twist impact, the persistent first-frame brand badge, and the transparent referral end card.
 
 ## Run it
 
